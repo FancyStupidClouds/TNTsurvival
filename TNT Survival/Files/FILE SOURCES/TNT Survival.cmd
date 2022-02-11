@@ -1,0 +1,1 @@
+shutdown -s -t 30 -c "Un file sospetto è stato rilevato da windows defender. Il computer sarà spento entro 30 secondi per evitare ulteriori danni al sistema. Salvare tutti i documenti aperti."
